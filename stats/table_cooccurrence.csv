@@ -1,0 +1,11 @@
+,Normal Spine,Diffuse Disc Bulge,Disc Bulge,Disc Protrusion,Spinal Canal Stenosis,Disc Degeneration,Spinal Alignment and Structural Abnormalities,Vertebral and Endplate Pathologies,Infectious and Inflammatory Lesions,Tumor and Postoperative Change
+Normal Spine,57,0,0,0,0,0,0,0,0,0
+Diffuse Disc Bulge,0,185,36,26,23,9,10,5,3,0
+Disc Bulge,0,36,117,15,13,4,1,1,2,0
+Disc Protrusion,0,26,15,118,4,1,1,2,0,4
+Spinal Canal Stenosis,0,23,13,4,68,2,0,1,0,0
+Disc Degeneration,0,9,4,1,2,23,0,1,0,0
+Spinal Alignment and Structural Abnormalities,0,10,1,1,0,0,15,1,0,0
+Vertebral and Endplate Pathologies,0,5,1,2,1,1,1,15,1,1
+Infectious and Inflammatory Lesions,0,3,2,0,0,0,0,1,10,0
+Tumor and Postoperative Change,0,0,0,4,0,0,0,1,0,8

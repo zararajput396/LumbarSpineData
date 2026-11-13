@@ -1,0 +1,6 @@
+,Normal Spine,Diffuse Disc Bulge,Disc Bulge,Disc Protrusion,Spinal Canal Stenosis
+Normal Spine,57,0,0,0,0
+Diffuse Disc Bulge,0,185,36,26,23
+Disc Bulge,0,36,117,15,13
+Disc Protrusion,0,26,15,118,4
+Spinal Canal Stenosis,0,23,13,4,68

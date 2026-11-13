@@ -1,0 +1,11 @@
+category,patients,percent_of_459,modelled_in_five_label_study
+Normal Spine,57,12.4,yes
+Diffuse Disc Bulge,185,40.3,yes
+Disc Bulge,117,25.5,yes
+Disc Protrusion,118,25.7,yes
+Spinal Canal Stenosis,68,14.8,yes
+Disc Degeneration,23,5.0,no
+Spinal Alignment and Structural Abnormalities,15,3.3,no
+Vertebral and Endplate Pathologies,15,3.3,no
+Infectious and Inflammatory Lesions,10,2.2,no
+Tumor and Postoperative Change,8,1.7,no
